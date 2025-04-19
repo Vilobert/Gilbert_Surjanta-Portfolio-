@@ -37,5 +37,7 @@ This is a portfolio showcasing the projects I have worked on, including IT Syste
   An asset management system to track the distribution and return of company assets.
 
 ## Contact:
-Phone Number: 0815 7459 4300
-Email       : gilbertkerja1998@gmail.com  
+| Contact Info         | Detail                     |
+|--------------|----------------------------|
+| Phone Number | 0815 7459 4300             |
+| Email        | gilbertkerja1998@gmail.com |
